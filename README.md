@@ -1,4 +1,4 @@
-<h1>Hi, I'm Razvan! <br/> <a href="https://www.linkedin.com/in/razvan-dabija/">Cybersecurity Professional</a> </h1>
+<h1>Hi, I'm Razvan! <br/> <a href="https://www.linkedin.com/in/razvan-dabija/">Cybersecurity Enthusiast</a> </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
