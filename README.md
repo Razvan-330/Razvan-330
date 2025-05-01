@@ -7,5 +7,4 @@
 
 <h2>📜 Certifications:</h2>
 
-- <b>Google Cybersecurity Certification</b>
-  - [Badge](https://www.credly.com/earner/earned/badge/9eb74002-09ba-4f8e-bce7-fc0e075ba436)
+- [<b>Google Cybersecurity Certification</b>](https://www.credly.com/badges/9eb74002-09ba-4f8e-bce7-fc0e075ba436/public_url)
