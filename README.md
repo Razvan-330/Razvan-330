@@ -6,7 +6,8 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📜 Certifications:</h2>
-
+- <b>Google Cybersecurity Certificate </b>
+  - [Badge](https://www.credly.com/badges/9eb74002-09ba-4f8e-bce7-fc0e075ba436/linked_in_profile)
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
