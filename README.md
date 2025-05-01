@@ -5,7 +5,7 @@
 
 <b>Alerts🚨</b>
   - [Bruteforce](https://github.com/Razvan-330/BruteForce-Alert)
-  - [Unauthorized Execution of files in Temp & AppData](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Unauthorized Execution of files in Temp & AppData](https://github.com/Razvan-330/UnauthorizedEx-Temp-Appdata)
     
 <b>Dashboards📈</b>
 - [Firewall Dashboard](https://github.com/joshmadakor1/Algorithms-Practice)
