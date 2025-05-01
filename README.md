@@ -7,7 +7,7 @@
 
 <h2>📜 Certifications:</h2>
 - <b>Google Cybersecurity Certificate </b>
-  - [Badge](https://www.credly.com/badges/9eb74002-09ba-4f8e-bce7-fc0e075ba436/linked_in_profile)
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9eb74002-09ba-4f8e-bce7-fc0e075ba436" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
