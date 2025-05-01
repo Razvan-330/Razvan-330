@@ -1,9 +1,16 @@
 <h1>Hi, I'm Razvan! <br/> <a href="https://www.linkedin.com/in/razvan-dabija/">Cybersecurity Enthusiast</a> </h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
+<h3>Splunk Alerts and Dashboards</h3>
 
-- <b>Splunk Alerts and Dashboards</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+<b>Alerts🚨</b>
+  - [Bruteforce](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Unauthorized Execution of files in Temp & AppData](https://github.com/joshmadakor1/Algorithms-Practice)
+    
+<b>Dashboards📈</b>
+- [Firewall Dashboard](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Bruteforce Monitoring](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Data Exfiltration Monitoring](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📜 Certifications:</h2>
 
