@@ -8,7 +8,7 @@
   - [Unauthorized Execution of files in Temp & AppData](https://github.com/Razvan-330/UnauthorizedEx-Temp-Appdata)
     
 <b>Dashboards📈</b>
-- [Firewall Dashboard](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Firewall Dashboard](https://github.com/Razvan-330/FirewallDashboard)
 - [Bruteforce Monitoring](https://github.com/joshmadakor1/Algorithms-Practice)
 - [Data Exfiltration Monitoring](https://github.com/joshmadakor1/Algorithms-Practice)
 
