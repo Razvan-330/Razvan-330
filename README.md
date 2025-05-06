@@ -9,7 +9,7 @@
     
 <b>Dashboards📈</b>
 - [Firewall Dashboard](https://github.com/Razvan-330/FirewallDashboard)
-- [Bruteforce Monitoring](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Bruteforce Monitoring](https://github.com/Razvan-330/BruteforceDashboard)
 - [Data Exfiltration Monitoring](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📜 Certifications:</h2>
